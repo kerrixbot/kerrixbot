@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "http://prem-eu4.bot-hosting.net:20463/:path*"
+    }
+  ]
+}
