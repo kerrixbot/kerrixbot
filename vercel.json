@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "http://prem-eu4.bot-hosting.net:20463/"
+      "destination": "prem-eu4.bot-hosting.net:20463/"
     },
     {
       "source": "/:path*",
-      "destination": "http://prem-eu4.bot-hosting.net:20463/:path*"
+      "destination": "prem-eu4.bot-hosting.net:20463/:path*"
     }
   ]
 }
