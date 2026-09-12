@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "http://prem-eu4.bot-hosting.net:20463/"
+      "destination": "http://app.brevo.host:2937/"
     },
     {
       "source": "/:path*",
-      "destination": "http://prem-eu4.bot-hosting.net:20463/:path*"
+      "destination": "http://app.brevo.host:2937/:path*"
     }
   ]
 }
