@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "http://app.brevo.host:2937/"
+      "destination": "app.brevo.host:2937/"
     },
     {
       "source": "/:path*",
-      "destination": "http://app.brevo.host:2937/:path*"
+      "destination": "app.brevo.host:2937/:path*"
     }
   ]
 }
